@@ -8,6 +8,8 @@ Problem sets from the college text: "Computer Science An Interdisciplinary Appro
 All problem sets were taken from this text, will add more to README when I have some down time...
 
 ```bash
+DivisorPattern.java
+
 Enter an integer:25
 * * * * * * * * * * * * * * * * * * * * * * * * * 1
 * *   *   *   *   *   *   *   *   *   *   *   *   2
@@ -37,6 +39,8 @@ Enter an integer:25
 ```
 
 ```bash
+PowersOfTwo.java
+
 Enter an integer (n) to compute 2^n powers:30
  i      power
 --------------------
